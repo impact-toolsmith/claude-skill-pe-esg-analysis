@@ -2,7 +2,7 @@
 
 An open-source **Claude skill set** that produces institutional-grade **ESG analyses of private equity targets** — from a one-line verdict to a full, styled Word report. It is designed for deal screening and investment-committee work, and can be installed in any organisation.
 
-**Version:** Beta 0.31 · **Licence:** Apache License 2.0 · Free to use, no attribution required.
+**Version:** Beta 0.32 · **Licence:** Apache License 2.0 · Free to use, no attribution required.
 
 This repository is a public, dated technical disclosure of the skill set (see *Prior art* below).
 
